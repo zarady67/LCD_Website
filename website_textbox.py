@@ -3,7 +3,7 @@
 import streamlit as st
 import socket
 
-ESP32_IP = "192.168.1.100"  # Replace with your ESP32's IP
+ESP32_IP = "192.20.10.2"  # Replace with your ESP32's IP
 ESP32_PORT = 1234
 SECRET_PASSWORD = "letmein"  # Change this for better security
 
